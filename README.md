@@ -1,2 +1,2 @@
-# puppet_nrpe
+# nrpe
 Puppet module to manage nrpe agent
